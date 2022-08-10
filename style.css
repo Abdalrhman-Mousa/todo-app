@@ -1,0 +1,57 @@
+body{
+    background-color: gainsboro;
+   }
+   
+   .nav {
+       background-color: rgb(95, 95, 95); 
+       text-align: center;
+       list-style-type: none;
+       position: sticky;
+       top: 0;
+      
+   
+     }
+     .nav li {
+       display: inline-block;
+       font-size: 20px;
+       padding: 20px;
+     } 
+   
+     li a:hover {
+       background-color: #111;
+       
+     }
+     li a {
+       display: block;
+       color: white;
+       text-align: center;
+       padding: 10px 16px;
+       text-decoration: none;
+     }
+   
+   #maintitle {
+       text-align: center;
+   
+     }
+     .carimgs img {
+       width:480px; height: 300px ;
+       align-items: center;
+     }
+     .carimgs{
+       text-align: center;
+       background-color: gainsboro;
+     }
+     .Carform{
+       text-align: center;
+       background-color: gainsboro;
+   }
+   .subform{
+     text-align: center;
+     background-color: gainsboro;
+   }
+   table {
+       width: 100%;
+     }
+    footer {
+      text-align: center;
+     }
